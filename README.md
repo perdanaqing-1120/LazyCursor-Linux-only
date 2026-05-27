@@ -7,7 +7,8 @@ Unlike conventional mouse emulator programs (such as pyautogui or xdotool), Lazy
 ## **✨ Key Features**
 
 * **Wayland & X11 Safe:** Runs at the kernel level, tricking the OS into recognizing it as a genuine physical mouse.  
-* **Exclusive Keyboard Grabbing:** When active, arrow key inputs are exclusively captured for cursor movement. No more background web pages or applications scrolling unintentionally while moving the cursor\!    
+* **Exclusive Keyboard Grabbing:** When active, arrow key inputs are exclusively captured for cursor movement. No more background web pages or applications scrolling unintentionally while moving the cursor\!
+* **Open Source & Internal Hot-Reload:** Edit and save the program's code, and it will instantly reload itself in a split second without needing to restart the background service manually.    
 * **RAM Usage:** (\<20MB) Designed to run flawlessly as a Systemd daemon with extremely low RAM usage.
 
 ## **🎮 Shortcuts Guide**
