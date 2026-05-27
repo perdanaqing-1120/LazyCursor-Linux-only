@@ -49,7 +49,7 @@ Open your terminal and create a new service file:
 
 sudo nano /etc/systemd/system/lazycursor.service
 
-Paste the following configuration (Adjust /path/to/LazyCursor to your actual folder path, for example /home/perdana/perdara/LazyCursor):
+Paste the following configuration (Adjust /path/to/LazyCursor to your actual folder path, for example /home/user/folder/LazyCursor):
 
 \[Unit\]  
 Description=LazyCursor Auto-Reload Controller  
