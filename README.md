@@ -38,7 +38,7 @@ To make LazyCursor run automatically every time your computer boots up, follow t
 
 **1\. Clone the Repository and Create a Virtual Environment**
 
-git clone \[https://github.com/YOUR\_USERNAME/LazyCursor.git\](https://github.com/YOUR\_USERNAME/LazyCursor.git)  
+git clone \[https://github.com/perdanaqing-1120/LazyCursor.git\]
 cd LazyCursor  
 python3 \-m venv .venv  
 sudo .venv/bin/pip install evdev
